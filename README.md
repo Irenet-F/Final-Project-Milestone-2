@@ -1,0 +1,3 @@
+So far, what I hope to achieve is to accurately prove which region CWRU SOM should focus on as far as recruitment. As I'm going along in my project, the main problem that I'm starting to see is that I have way too much information, and I need to figure out what are the very highlights that I need to tell a good data story. Right now, it is too complex for anyone to truly understand, even for myself.
+
+I feel like where I'm going right is my ability to tidy data better than when I first started in this course. I'm starting to get a feel for what I need out of a dataset and how I want it to look before I graph it. I think if I just focus on MCAT, GPA, and out-of-state vs. in-state stats, my project will look more put together.
